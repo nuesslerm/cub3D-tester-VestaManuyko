@@ -1,4 +1,4 @@
-SO         ./textures/Wall7.xpm   
+SO ./textures/Wall7.xpm   
 
 
 WE ./textures/Wall4.xpm
@@ -11,7 +11,7 @@ NO ./textures/Wall2.xpm
 
 EA ./textures/Wall8.xpm
 
-C                                   0,0,0          
+C 0,0,0          
 
 
 
